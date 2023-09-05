@@ -46,7 +46,7 @@ To install and run the Employee Self Care System, follow these steps:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/employee-self-care-system.git
+   git clone https://github.com/commityourdream/Employee-Self-Care-System.git
 
 2. Navigate to the project directory:
    cd employee-self-care-system
@@ -114,7 +114,6 @@ We welcome contributions from the community to enhance the Employee Self Care Sy
     3.Make your changes and commit them.
     4.Push to your fork and submit a pull request.
 
-Please read CONTRIBUTING.md for more details on our code of conduct and the process for submitting pull requests.
 ### License
 
 This project is licensed under the MIT License.
