@@ -58,7 +58,7 @@ To install and run the Employee Self Care System, follow these steps:
 
 On Windows:
 
-```sh
+
 venv\Scripts\activate
 
 On macOS and Linux:
