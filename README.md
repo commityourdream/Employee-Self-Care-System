@@ -56,17 +56,18 @@ To install and run the Employee Self Care System, follow these steps:
    python3 -m venv venv
 6. Activate the virtual environment:
 
-On Windows:
+   On Windows:
 
 
-venv\Scripts\activate
+   venv\Scripts\activate
 
-On macOS and Linux:
-  source venv/bin/activate
+   On macOS and Linux:
+   
+   source venv/bin/activate
 
 8. Install the project dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
   
 9. Set up the database:
     Create a PostgreSQL database and update the database configuration in config.py.
