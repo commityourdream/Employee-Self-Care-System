@@ -87,7 +87,9 @@ Here's how you can use the Employee Self Care System:
   of interest.
 4. Advanced Resource Search: Users can search for resources based on various criteria, making it easier to find the information they need.
 5. Export Search Results: Users can export search results to an Excel file for further reference.
-6 .Profile Deletion: Users can delete their profiles.
+   
+  6 .Profile Deletion: Users can delete their profiles.
+
 
 ### Integrating ChatGPT
 
