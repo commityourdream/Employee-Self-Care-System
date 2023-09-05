@@ -49,26 +49,29 @@ To install and run the Employee Self Care System, follow these steps:
    git clone https://github.com/commityourdream/Employee-Self-Care-System.git
 
 2. Navigate to the project directory:
+   ```sh
    cd employee-self-care-system
-3. Create a virtual environment:
+4. Create a virtual environment:
+   ```sh
    python3 -m venv venv
-4. Activate the virtual environment:
+6. Activate the virtual environment:
+
 On Windows:
-    venv\Scripts\activate
+
+```sh
+venv\Scripts\activate
+
 On macOS and Linux:
   source venv/bin/activate
-5. Install the project dependencies:
-   pip install -r requirements.txt
+
+8. Install the project dependencies:
+
+pip install -r requirements.txt
   
-6. Set up the database:
+9. Set up the database:
     Create a PostgreSQL database and update the database configuration in config.py.
-
-7. Initialize the database:
-  python manage.py db init
-  python manage.py db migrate
-  python manage.py db upgrade
-
-9. Start the Flask application:
+   
+10. Start the Flask application:
     flask run
    
 The application should now be running locally. Open your web browser and visit http://localhost:5000 to access the Employee Self Care System.
